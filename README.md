@@ -61,3 +61,4 @@ If you know how to make a pull request to contribute a fix, please write the cor
 # Translations
 
 If you are interested in translating this book, please join our team of volunteers at: https://www.transifex.com/bitcoinbook/mastering-bitcoin/
+This project is a demonstration of blockchain technology and smart contract integration.
